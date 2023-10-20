@@ -5,5 +5,10 @@ https://github.com/SysBioChalmers/yeast-GEM - yeast metabolic model
 
 
 Literature:
-
-
+https://pubs.rsc.org/en/content/articlehtml/2023/np/d3np00005b #Thorough review of producing terpenoids in yeast - super updated (Ignea, 2023)
+https://www.sciencedirect.com/science/article/pii/S2001037014600623 #Another review - (Makris and Kampranis, 2012)
+https://academic.oup.com/femsyr/article/17/8/fox080/4582882 #Review - terpenoids in yeast
+https://www.mdpi.com/1424-8247/14/4/295 #Recent review on fermentation strategies for producing terpenoids
+https://academic.oup.com/jimb/article/42/3/327/5995436 #Review of GSM applications in metaboic engineering - pretty generic
+https://academic.oup.com/ib/article-abstract/7/8/846/5199161 #Review of yeast metaboic models by Nielsen - good for reference to our model (Yeast8)
+https://www.sciencedirect.com/science/article/pii/S0958166914002195?casa_token=AOXPRU9-iRcAAAAA:T1Qv7SFiolFqpdV71vTn7ApulFHOIEQcAYVWHT542Yvmr0g282QXRJhHdfPJKw3kDaFu_U9mOQ #Review of metabolic engineering for natural products in yeast - might be too general for us
