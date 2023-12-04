@@ -22,5 +22,40 @@ In order to increase β-farnesene production, we manually simulated five popular
 In summary, the project successfully employs metabolic engineering strategies, media optimization, and computational analyses to significantly improve the efficiency of β-farnesene production in <i>S. cerevisiae</i>. The identified gene targets and the understanding of growth and oxygen uptake dynamics contribute valuable knowledge for the development of high-performing <i>S. cereviciae</i> cell factories. 
 
 ## Project overview
-...
+Our project is organized into three main folders:
+1. Yeast-GEM-8.7.0 contains the yeast8 model 
+2. The analysis folder contains the main report and the accompanying analysis files 
+3. The figures folder contains all the figures generated from the analysis and used in the report
+
+
+Table of contents
+
+1 Introduction
+- 1.1 Literature Review of the Compound
+   Applications of the Product
+   Evaluation of Market Potential
+   Biosynthetic Pathway/Genes
+- 1.2 Literature Review of the Cell Factory - Saccharomyces cerevisiae as a Cell Factory for the Production of β-farnesene
+   General Advantages
+   General Disadvantages
+   Suitability of the Cell Factory for the Product
+
+2 Problem Definition
+
+3 Selection and Assessment of Existing GSM
+
+4 Computer-Aided Cell Factory Engineering
+- 4.1 Introducing the Heterologous Pathway to the Model
+- 4.2 Media Optimization
+- 4.3 Modeling of Manually Derived Targets
+- 4.4 Identification of Overexpression Targets
+- 4.5 Phenotypic Phase Plane Analysis
+- 4.6 Co-factor Swapping Targets
+- 4.7 Top 10 List of Most Promising Cell Factory Proposals for Implementation
+
+Discussion
+
+Conclusion
+
+References
 
